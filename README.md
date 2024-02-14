@@ -24,7 +24,10 @@ To deploy this project run
 
 ## Screenshots
 
-![App Screenshot]()
+![Screenshot (23)](https://github.com/DevanshKyada27/Aeroplane-Game/assets/143169520/6e217297-b75f-4251-8f5a-eb8ef0a76164)
+
+![Screenshot (22)](https://github.com/DevanshKyada27/Aeroplane-Game/assets/143169520/2884d349-f5ca-4705-ac38-3fb86cd4bb20)
+
 - This is how the project interface looks like. 
 
 
@@ -33,5 +36,6 @@ To deploy this project run
 
 Live demo of the project:
 
-You can click on the link to watch the live demo ofthe project that how the project works:
+You can watch the live demo ofthe project that how the project works:
 
+https://github.com/DevanshKyada27/Aeroplane-Game/assets/143169520/ab3c89f0-d2ca-494b-b6eb-ed9bbf6a829c
